@@ -1,6 +1,6 @@
 # Network
 
-project Discription :
+project Description :
 
 There	are	a	number	of	objectives	to	this	assignment	beyond	just	a	simple	socket	programming	
 assignment.	 First,	 if	 you	 have	 not	 ever	 programmed	 sockets	 before,	 it	 is	 relatively	
